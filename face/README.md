@@ -38,7 +38,7 @@ using your own model or wheather a pretained model after that also  you have to 
 ## classifier.pkl is the file that you have got after training
 
 # step4
-run the identify_face_video.py ans set the path accordind to your directrion or if you clone my repo let the path as it is
+run the identify_face_video.py and set the all the paths , like classifier file path according to your directory or if you clone my repo let the path as it is
 
 complete
 
