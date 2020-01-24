@@ -31,9 +31,11 @@ And now run the training file “train_main.py” as python command. It will tra
  OR you can train your own model .
 link for pre trained model https://drive.google.com/file/d/1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55-/view
 
-## note 1- this is the pretrained model which is trained on thousands of images 
-## note 2 using your own model or wheather a pretained model after that also  you have to train your dataset of images by running so that it will create a model for you i.e classify your dataset of your choosen names of different people (you will get a file inside class directory classifier.pkl).
-  classifier.pkl is the file that you have got after training
+## note 1- 
+this is the pretrained model which is trained on thousands of images 
+## note 2-
+using your own model or wheather a pretained model after that also  you have to train your dataset of images by running so that it will create a model for you i.e classify your dataset of your choosen names of different people (you will get a file inside class directory classifier.pkl).
+classifier.pkl is the file that you have got after training
 
 # step4
 run the identify_face_video.py ans set the path accordind to your directrion or if you clone my repo let the path as it is
